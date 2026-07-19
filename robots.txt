@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ikdfashionshow.com.ng/sitemap.xml
